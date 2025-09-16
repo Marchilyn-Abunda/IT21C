@@ -1,0 +1,50 @@
+JavaScript
+
+A programming language of the web.
+Makes the websites interactive
+It works along side with HTML(structure) and CSS(style)
+Invented by Brendan Eich in 1995
+
+Variables and Data Types
+
+Declare variable
+1. var
+2. let
+3. const
+
+Common Data Types
+1. String - "Hello"
+2. Numbers - 100, 3.14
+3. Boolean - true/false
+4. Undefined - no value assigned 
+5. Null- intentionally empty value
+
+
+Basic Arithmetic
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. module (%) 
+
+Comment:
+1. One line (//)
+2. Multiple line (/**/)
+
+Conditional Statement
+1. if/else
+
+Loops
+1. for loop
+	for(let i = 0; i<=5; i++){
+   	 console.log("Count: " + i);
+	}
+
+2. while loop
+	while(i<=5){
+   	 console.log("Count: " + i);
+   	 i++;
+	}
+
+Function
+
